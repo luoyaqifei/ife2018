@@ -1,0 +1,26 @@
+{
+  "name": "sanProject",
+  "version": "0.1.0",
+  "description": "use san fwk",
+  "main": "index.js",
+  "dependencies": {
+    "san": "^3.5.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoyaqifei/ife2018.git"
+  },
+  "keywords": [
+    "san"
+  ],
+  "author": "luoyaqifei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luoyaqifei/ife2018/issues"
+  },
+  "homepage": "https://github.com/luoyaqifei/ife2018#readme"
+}
